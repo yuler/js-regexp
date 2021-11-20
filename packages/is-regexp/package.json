@@ -1,0 +1,15 @@
+{
+	"name": "@yuler/is-regexp",
+	"version": "1.0.0",
+	"description": "Check if a value is a regular expression",
+	"license": "MIT",
+	"author": "yuler<is.yuler@gmail.com>",
+	"main": "index.js",
+	"engines": {
+		"node": ">=16.0.0"
+	},
+	"keywords": [
+		"regexp",
+		"is-regexp"
+	]
+}
