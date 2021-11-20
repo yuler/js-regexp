@@ -1,0 +1,17 @@
+{
+	"name": "@yuler/regexp-rules",
+	"version": "0.0.0",
+	"description": "collection some common regexp rule",
+	"license": "MIT",
+	"author": "yuler <is.yuler@gmail.com>",
+	"type": "module",
+	"main": "index.js",
+	"engines": {
+		"node": ">=16.0.0"
+	},
+	"keywords": [
+		"regexp",
+		"regexp-rule",
+		"regexp-rules"
+	]
+}
