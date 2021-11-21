@@ -1,6 +1,6 @@
 {
 	"name": "@yuler/regexp-rules",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "collection some common regexp rule",
 	"license": "MIT",
 	"author": "yuler <is.yuler@gmail.com>",
