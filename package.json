@@ -2,8 +2,5 @@
 	"private": true,
 	"devDependencies": {
 		"@changesets/cli": "^2.18.0"
-	},
-	"workspaces": [
-		"packages/regexp-rules"
-	]
+	}
 }

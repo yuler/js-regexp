@@ -1,6 +1,6 @@
 {
 	"name": "@yuler/is-regexp",
-	"version": "1.0.1",
+	"version": "2.0.0",
 	"description": "Check if a value is a regular expression",
 	"license": "MIT",
 	"author": "yuler <is.yuler@gmail.com>",
