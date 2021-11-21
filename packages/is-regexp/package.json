@@ -1,9 +1,10 @@
 {
 	"name": "@yuler/is-regexp",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Check if a value is a regular expression",
 	"license": "MIT",
-	"author": "yuler<is.yuler@gmail.com>",
+	"author": "yuler <is.yuler@gmail.com>",
+	"type": "module",
 	"main": "index.js",
 	"engines": {
 		"node": ">=16.0.0"
